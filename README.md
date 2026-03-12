@@ -1,6 +1,6 @@
 # Linux Syslog Okuyucu ve Bağlı Liste Uygulaması
 
-Bu proje, Linux işletim sistemlerindeki sistem günlüklerini (`/var/log/syslog`) okuyarak bu verileri bellekte yapılandırılmış bir şekilde tutmak amacıyla geliştirilmiştir. Geleneksel dosya okuma yöntemleri yerine, log yönetimi ve veri işleme performansını artırmak için **Çift Yönlü Bağlı Liste (Doubly Linked List)** veri yapısı kullanılmıştır.
+Bu proje, Linux işletim sistemlerindeki sistem günlüklerini (`"syslog.txt"`) okuyarak bu verileri bellekte yapılandırılmış bir şekilde tutmak amacıyla geliştirilmiştir. Geleneksel dosya okuma yöntemleri yerine, log yönetimi ve veri işleme performansını artırmak için **Çift Yönlü Bağlı Liste (Doubly Linked List)** veri yapısı kullanılmıştır.
 
 **Geliştirici:** Mehmet Ege Sarıgöl  
 **Kurum:** Kırklareli Üniversitesi - Yazılım Mühendisliği Bölümü  
