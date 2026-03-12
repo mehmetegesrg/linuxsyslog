@@ -1,0 +1,2 @@
+# linuxsyslog
+Linux Syslog Ödevi
