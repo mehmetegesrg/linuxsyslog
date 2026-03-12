@@ -1,0 +1,10 @@
+Mar 12 08:30:01 ege-pc kernel: [ 0.000000] Linux version 6.8.0-31-generic
+Mar 12 08:30:05 ege-pc systemd[1]: Started System Logging Service.
+Mar 12 08:30:12 ege-pc NetworkManager[850]: <info> [1710232212.1234] device (wlo1): state change: unmanaged -> unavailable
+Mar 12 08:35:22 ege-pc sshd[1024]: Server listening on 0.0.0.0 port 22.
+Mar 12 09:15:45 ege-pc sudo[2048]: ege : TTY=pts/0 ; PWD=/home/ege/projects ; USER=root ; COMMAND=/usr/bin/apt update
+Mar 12 09:16:02 ege-pc sudo[2048]: pam_unix(sudo:session): session opened for user root(uid=0) by ege(uid=1000)
+Mar 12 10:00:01 ege-pc CRON[3050]: (ege) CMD (/usr/bin/python3 /home/ege/scripts/backup.py)
+Mar 12 11:42:15 ege-pc kernel: [ 4500.123456] usb 1-3: new high-speed USB device number 4 using xhci_hcd
+Mar 12 12:15:30 ege-pc systemd[1]: Started Backend Service.
+Mar 12 12:30:45 ege-pc sshd[4012]: Accepted publickey for ege from 192.168.1.50 port 54321 ssh2
